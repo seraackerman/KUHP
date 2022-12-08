@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEJARAH DUNIA</title>
+    <style type="text/css">
+        .body {
+        min-height: 50vh;
+        background: rgb(202, 198, 198);
+        }
+        .apple {
+        font-size: 20px;font-family: monospace;
+        }
+        .bell {
+        font-size: 100px;font-family: fantasy;
+        }
+        .call {
+        font-size: 10;font-family: 'Times New Roman', Times, serif;color: rgb(17, 42, 116);
+        }
+    </style>
+</head>
+<body class="body">
+    <h1 class="bell"><b>KUHP</b></h1>
+    <h2 class="call">Kitab Undang-Undang Hukum Pidana</h2>
+    <p class="apple">Rancangan Kitab Undang-Undang Hukum Pidana (RKUHP) menjadi perbincangan hangat di Negara Indonesia yang dianggap sangat kontroversial dan merenggut hak-hak masyarakat. Jika diartikan, Hukum pidana adalah hukum positif yang berlaku disuatu negara dengan memperhatikan waktu, tempat dan bagian penduduk yang memuat dasar-dasar dan ketentuan-ketentuan mengenai Tindakan larangan atau Tindakan kekerasan dan kepada pelanggarnya diancam dengan pidana. Menentukan pula bagaimana dalam hal apa pelaku pelanggaran tersebut dipertanggungjawabkan serta ketentuan-ketentuan mengenai hal dan cara penyelidik, penuntutan, penjatuhan pidana dan pelaksanaan pidana demi tegaknya hukum yang bertitik berat kepada keadilan.
+        Perumusan hukum pidana mencakup juga hukum pidana adat, yang bertujuan mengadakan keseimbangan diantara berbagai kepentingan keadilan (Sianturi, Hukum Pidana Menurut Para Ahli, 18 Februari 2021). Sebelum membahas lebih lanjut terkait RKUHP yang akan di sahkan pada hari Selasa, 6 November 2022 ada baiknya penulis akan menjelaskan sejarah KUHP di Indonesia.
+        KUHP atau nama aslinya "Wetboek van Strafrecht voor Nederlandsch Indie (WvSNI)" yang merupakan turunan dari Wetboek van Strafrecht (WvS) dari negara Belanda dan mulai diberlakukan di Indonesia pada tahun 1918. Dilihat dari sejarah Belanda, perundang-undangan hukum pidana Wetboek van Strafrecht (WvS) disahkan pada tahun 1809. Akan tetapi pada tahun 1811 Perancis menjajah Belanda dan memberlakukan Code Penal (kodifikasi Hukum Pidana) saat Napoleon Bonaparte menjadi penguasa di Perancis. Di tahun 1813, Perancis meninggalkan Belanda karena Napoleon Bonaparte diasingkan ke Pulau Elba akibat kekalahannya dari Rusia, Austria dan Inggris. Pada tahun 1815 William I menjadi Raja dari Belanda. Negara Belanda masih mengadopsi Code Penal dari Prancis sampai pada tahun 1886. Sehingga pada 1886 mulai diberlakukannya kembali Wetboek van Strafrecht (WvS).
+        Belanda di Indonesia menerapkan "Wetboek van Strafrecht voor Nederlandsch Indie (WvSNI)" untuk mengatur kehidupan penduduk di Indonesia. Pada kemerdekaan Indonesia tahun 1945, dengan dasar pasal II aturan peralihan UUD 1945, maka WvSNI tetap diberlakukan untuk mengisi kekosongan hukum di Indonesia. Peraturan Hukum Pidana Indonesia dalam pasal VI Undang-Undang Nomor 1 Tahun 1946 berbunyi bahwa menerapkan "Wetboek van Strafrecht voor Nederlandsch Indie (WvSNI) diubah menjadi Wetboek van Strafrecht (WvS)" jika diartikan ke dalam Indonesia maka memiliki arti Kitab Undang-Undang Hukum Pidana.
+        Pembaharuan Hukum Pidana pada prinsipnya melakukan peninjauan dan pembentukan kembali yang sesuai dengan nilai-nilai sentral sosio-politik, sosio-filosofik, dan nilai-nilai sosio-kultural masyarakat Indonesia (Menurut : Barda Nawawi Arief). Para akademisi sebenarnya sudah membahas RKUHP Indonesia sejak 1989. Secara nasionalis kedaulatan, Indonesia sudah seharusnya memiliki KUHP sendiri mengingat Indonesia bukan lagi jajahannya Belanda. Wetboek van Strafrecht (WvS) dianggap sudah kuno dan tidak memadai dengan perubahan pada masyarakat.. Oleh karena hal tersebut, tidak heran selama ini banyak dibuat aturan diluar KUHP. Contoh : UU tipikor, UU narkotika, UU Lingkungan hidup, dll. Mengapa munculnya UU baru? Karena banyak modus kejahatan yang tidak sesuai dengan KUHP yang lama atau tidak terjangkau. KUHP merupakan buku Induk. Mengingat akan hal tersebut sudah sewajarnya jika pemerintah merumuskan dan mengesahkan KUHP yang sesuai dengan nilai-nilai yang ada di Negara Indonesia.
+    </p>
+        <table border="1">
+            <colgroup>
+                <col width="10px">
+            </colgroup>
+            <tr>
+                <th>No</th>
+                <th>Nama</th>
+                <th>Asal Kota</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Ghufron</td>
+                <td>Surabaya</td>
+            </tr>
+            <tr >
+                <td>2</td>
+                <td>Muhammad Ali</td>
+                <td>Madiun</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Muhammad Umar</td>
+                <td>Surakarta</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Muhammad Husen</td>
+                <td>Yogyakarta</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Fathul Bari</td>
+                <td>Bandung</td>
+            </tr>
+        </table>
+</body>
+</html>
